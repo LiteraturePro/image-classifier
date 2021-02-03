@@ -6,5 +6,5 @@ RUN pip install -r /requirements.txt
 ADD . /app
 WORKDIR /app
 
-EXPOSE $PORT
+EXPOSE 5000
 CMD [ "python" , "app.py"]
