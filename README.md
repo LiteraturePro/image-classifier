@@ -38,7 +38,6 @@ A pretty and customizable web app to deploy your DL model with ease
 
 _If you need to use Python 2.x or TensorFlow 1.x, check out the [legacy](https://github.com/mtobeiyf/keras-flask-deploy-webapp/tree/legacy) snapshot_
 
-
 ------------------
 
 ## Run with Docker
