@@ -156,4 +156,3 @@ server {
 ## More Resources
 
 [Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
-
