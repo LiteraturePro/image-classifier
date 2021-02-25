@@ -8,4 +8,4 @@ jobs:
      # build image
      - run: |         
          docker info
-         docker build -t animegan .
+         docker build -t aspnetapp  .
